@@ -7,6 +7,19 @@
     <list default="true" id="b1544cdf-a385-4078-8c96-1712c5c441e6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chuyensothanhchu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/chuyensothanhchu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doitien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/doitien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/giaiphuongtrinhbacnhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/giaiphuongtrinhbacnhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hienthiloichao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/hienthiloichao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hienthithoigian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/hienthithoigian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khaibaovasdbien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/khaibaovasdbien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ktraSNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/ktraSNT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ktrachisocothe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/ktrachisocothe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ktranamnhuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/ktranamnhuan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdtoantu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/sdtoantu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tinhlaisuat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/tinhlaisuat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tinhsongaytrongthang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/tinhsongaytrongthang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,49 +62,49 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tinhlaisuat">
-    <configuration name="chuyensothanhchu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chuyensothanhchu" />
-      <module name="Module2-week1" />
+  <component name="RunManager" selected="Application.timmaxtrongmang2chieu">
+    <configuration name="nhietdo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nhietdo" />
+      <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="doitien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doitien" />
-      <module name="Module2-week1" />
+    <configuration name="themptvaomang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="themptvaomang" />
+      <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ktraSNT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ktraSNT" />
-      <module name="Module2-week1" />
+    <configuration name="timmaxtrongmang2chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timmaxtrongmang2chieu" />
+      <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ktrachisocothe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ktrachisocothe" />
-      <module name="Module2-week1" />
+    <configuration name="timmintrongmang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timmintrongmang" />
+      <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tinhlaisuat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tinhlaisuat" />
-      <module name="Module2-week1" />
+    <configuration name="xoaptkhoimang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xoaptkhoimang" />
+      <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tinhlaisuat" />
-        <item itemvalue="Application.ktrachisocothe" />
-        <item itemvalue="Application.chuyensothanhchu" />
-        <item itemvalue="Application.doitien" />
-        <item itemvalue="Application.ktraSNT" />
+        <item itemvalue="Application.timmaxtrongmang2chieu" />
+        <item itemvalue="Application.xoaptkhoimang" />
+        <item itemvalue="Application.timmintrongmang" />
+        <item itemvalue="Application.themptvaomang" />
+        <item itemvalue="Application.nhietdo" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +118,9 @@
       <updated>1652067342099</updated>
       <workItem from="1652067342102" duration="15748000" />
       <workItem from="1652149563367" duration="9535000" />
-      <workItem from="1652231386826" duration="2448000" />
+      <workItem from="1652231386826" duration="17350000" />
+      <workItem from="1652263724705" duration="751000" />
+      <workItem from="1652289331343" duration="3249000" />
     </task>
     <servers />
   </component>
