@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ktraSNT {
+public class KtraSNT {
     public static void main(String[] args) {
         Scanner snt = new Scanner(System.in);
         System.out.print("Nhập số");

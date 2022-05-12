@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class doitien {
+public class Doitien {
     public static void main(String[] args) {
         double USD;
         Scanner sc = new Scanner(System.in);

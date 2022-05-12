@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ktranamnhuan {
+public class Ktranamnhuan {
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
         int year;

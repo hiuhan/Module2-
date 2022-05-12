@@ -1,4 +1,4 @@
-public class timmintrongmang {
+public class Timmintrongmang {
     public static void main(String[] args) {
         int[][] arr = {
                 {25,10,8,6,7,9},

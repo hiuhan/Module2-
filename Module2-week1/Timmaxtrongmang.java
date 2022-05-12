@@ -1,8 +1,6 @@
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 import java.util.Scanner;
 
-public class timmaxtrongmang {
+public class Timmaxtrongmang {
     public static void main(String[] args) {
         int dodai;
         int[] array;

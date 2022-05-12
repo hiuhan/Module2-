@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class nhietdo {
+public class Nhietdo {
     public static void main(String[] args) {
         double F = 1.0;
         double C = 0.0;

@@ -5,21 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1544cdf-a385-4078-8c96-1712c5c441e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2-week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chuyensothanhchu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/chuyensothanhchu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doitien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/doitien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/giaiphuongtrinhbacnhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/giaiphuongtrinhbacnhat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hienthiloichao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/hienthiloichao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hienthithoigian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/hienthithoigian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khaibaovasdbien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/khaibaovasdbien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ktraSNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/ktraSNT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ktrachisocothe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/ktrachisocothe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ktranamnhuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/ktranamnhuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sdtoantu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/sdtoantu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinhlaisuat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/tinhlaisuat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tinhsongaytrongthang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/tinhsongaytrongthang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/chuyensothanhchu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Chuyensothanhchu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/daonguocptcuamang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Daonguocptcuamang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/doitien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Doitien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/giaiphuongtrinhbacnhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/GiaiPhuongTrinhBacNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/gopmang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Gopmang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/hienthiloichao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Hienthiloichao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/hienthithoigian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Hienthithoigian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/khaibaovasdbien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Khaibaovasdbien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/ktraSNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/KtraSNT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/ktrachisocothe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Ktrachisocothe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/ktranamnhuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Ktranamnhuan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/nhietdo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Nhietdo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/sdtoantu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Sdtoantu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/themptvaomang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Themptvaomang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/thietkemenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Thietkemenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/timgttrongmang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Timgttrongmang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/timmaxtrongmang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Timmaxtrongmang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/timmaxtrongmang2chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Timmaxtrongmang2chieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/timmintrongmang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Timmintrongmang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/timmintrongmangsdphuongthuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Timmintrongmangsdphuongthuc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/timuocsochung.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Timuocsochung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/tinhlaisuat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Tinhlaisuat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/tinhsongaytrongthang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Tinhsongaytrongthang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2-week1/xoaptkhoimang.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2-week1/Xoaptkhoimang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,37 +72,37 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.timmaxtrongmang2chieu">
-    <configuration name="nhietdo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nhietdo" />
+  <component name="RunManager" selected="Application.Xoaptkhoimang">
+    <configuration name="Daonguocptcuamang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Daonguocptcuamang" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="themptvaomang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="themptvaomang" />
+    <configuration name="Demsoluongsvthido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demsoluongsvthido" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timmaxtrongmang2chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timmaxtrongmang2chieu" />
+    <configuration name="Hienthi20SNT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hienthi20SNT" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timmintrongmang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timmintrongmang" />
+    <configuration name="Timmaxtrongmang2chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timmaxtrongmang2chieu" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xoaptkhoimang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xoaptkhoimang" />
+    <configuration name="Xoaptkhoimang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Xoaptkhoimang" />
       <module name="Demo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.timmaxtrongmang2chieu" />
-        <item itemvalue="Application.xoaptkhoimang" />
-        <item itemvalue="Application.timmintrongmang" />
-        <item itemvalue="Application.themptvaomang" />
-        <item itemvalue="Application.nhietdo" />
+        <item itemvalue="Application.Xoaptkhoimang" />
+        <item itemvalue="Application.Daonguocptcuamang" />
+        <item itemvalue="Application.Hienthi20SNT" />
+        <item itemvalue="Application.Demsoluongsvthido" />
+        <item itemvalue="Application.Timmaxtrongmang2chieu" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +130,8 @@
       <workItem from="1652149563367" duration="9535000" />
       <workItem from="1652231386826" duration="17350000" />
       <workItem from="1652263724705" duration="751000" />
-      <workItem from="1652289331343" duration="3249000" />
+      <workItem from="1652289331343" duration="3923000" />
+      <workItem from="1652318061602" duration="11193000" />
     </task>
     <servers />
   </component>

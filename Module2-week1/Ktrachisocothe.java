@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ktrachisocothe {
+public class Ktrachisocothe {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

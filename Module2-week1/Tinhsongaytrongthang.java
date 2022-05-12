@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinhsongaytrongthang {
+public class Tinhsongaytrongthang {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Bạn muốn đếm ngày của tháng nào? ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sdtoantu {
+public class Sdtoantu {
     public static void main(String[] args) {
         float width;
         float height;

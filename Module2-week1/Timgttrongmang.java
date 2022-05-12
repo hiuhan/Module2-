@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class timgttrongmang {
+public class Timgttrongmang {
     public static void main(String[] args) {
         String[] hocsinh = {"Hieu", "CongAnh", "Duong", "Binh", "Hai", "Minh"};
         Scanner sc = new Scanner(System.in);

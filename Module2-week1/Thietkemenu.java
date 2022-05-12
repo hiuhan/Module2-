@@ -1,7 +1,6 @@
 import java.util.Scanner;
-import java.util.jar.JarOutputStream;
 
-public class thietkemenu {
+public class Thietkemenu {
     public static void main(String[] args) {
         int luachon = -1;
         Scanner menu = new Scanner(System.in);

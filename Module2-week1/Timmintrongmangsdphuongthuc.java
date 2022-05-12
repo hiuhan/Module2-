@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class timmintrongmangsdphuongthuc {
+public class Timmintrongmangsdphuongthuc {
     public static void main(String[] args) {
         int dodai;
         int[] arr;

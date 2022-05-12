@@ -1,4 +1,4 @@
-public class gopmang {
+public class Gopmang {
     public static void main(String[] args) {
         int[] arr1 = {2,3,4,5,6};
         int[] arr2 = {5,4,3,2,1};

@@ -1,8 +1,6 @@
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 import java.util.Scanner;
 
-public class daonguocptcuamang {
+public class Daonguocptcuamang {
     private static int j;
 
     public static void main(String[] args) {
@@ -24,7 +22,7 @@ public class daonguocptcuamang {
         }
         System.out.println("Element in array: ");
         for (int j = 0; j < array.length; j++) {
-            System.out.print(array[j] + "\t");
+            System.out.print(array[j] + "\n");
         }
         for (int j = 0; j < array.length / 2; j++) {
             int temp = array[j];
@@ -33,7 +31,7 @@ public class daonguocptcuamang {
         }
         System.out.println("Reverse array: ");
         for (int j = 0; j < array.length; j++) {
-            System.out.print(array[j] + "\t");
+            System.out.print(array[j] + "\n");
         }
     }
 }

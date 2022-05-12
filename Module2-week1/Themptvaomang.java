@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class themptvaomang {
+public class Themptvaomang {
     public static void main(String[] args) {
         int[] arr1 = {3, 4, 1, 2, 6, 7, 5, 8, 9, 4, 6};
         int a;

@@ -1,4 +1,4 @@
-public class timmaxtrongmang2chieu {
+public class Timmaxtrongmang2chieu {
     public static void main(String[] args) {
         int[][] arr = {
                 { 3,4,57,42,14,20},

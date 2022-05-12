@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinhlaisuat {
+public class Tinhlaisuat {
     public static void main(String[] args) {
         double tien = 1.0;
         int thang = 1;
